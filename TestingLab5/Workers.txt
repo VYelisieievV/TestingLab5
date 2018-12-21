@@ -1,0 +1,75 @@
+Worker:
+Name: Valeriy
+id: 10000
+Type: FixedSalary
+Salary: 10000.5
+Worker:
+Name: Vladimir
+id: 10001
+Type: FixedSalary
+Salary: 11020.0
+Worker:
+Name: Vasiliy
+id: 10002
+Type: HourSalary
+Salary: 61.0
+Worker:
+Name: Veneamin
+id: 10003
+Type: HourSalary
+Salary: 59.98
+Worker:
+Name: Vsevolod
+id: 10004
+Type: HourSalary
+Salary: 100.0
+Worker:
+Name: Vadim
+id: 10005
+Type: FixedSalary
+Salary: 16640.0
+Worker:
+Name: Victor
+id: 10006
+Type: HourSalary
+Salary: 100.0
+Worker:
+Name: Vladislav
+id: 10007
+Type: FixedSalary
+Salary: 19999.99
+Worker:
+Name: Valentin
+id: 10008
+Type: FixedSalary
+Salary: 19997.22
+Worker:
+Name: Valerian
+id: 10009
+Type: HourSalary
+Salary: 100.0
+Worker:
+Name: Vitaliy
+id: 10010
+Type: FixedSalary
+Salary: 10000.00
+Worker:
+Name: Vyacheslav
+id: 10011
+Type: HourSalary
+Salary: 78.29
+Worker:
+Name: Vlas
+id: 10012
+Type: FixedSalary
+Salary: 15944.00
+Worker:
+Name: Vikentiy
+id: 10013
+Type: FixedSalary
+Salary: 12002.00
+Worker:
+Name: Vit
+id: 10014
+Type: HourSalary
+Salary: 45.50
